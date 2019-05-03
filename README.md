@@ -1,4 +1,4 @@
-# Android-ListView-
+# Android-ListView-Array Adapter
 Android ListView using Array Adapter.
 
 For more reference
